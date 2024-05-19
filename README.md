@@ -12,4 +12,4 @@ Nosso projeto visa criar um site para o cadastro e gestão de professores, aluno
 
 ## Protótipos
 - Home - Nesta tela, o usuário terá a oportunidade de se cadastrar no sistema ou fazer login.
-![image] (/docs/home.png)
+![image] (/docs/home.jpg)
