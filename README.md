@@ -25,3 +25,5 @@ https://www.figma.com/file/8DIgI72W51N6mxxgm5N9NY/Prot%C3%B3tipo?type=design&nod
 
 - Tela de cadastro - Aqui, o usuário inicialmente selecionará o seu tipo de cadastro e, em seguida, preencherá as suas informações.
 ![image](/docs/cadastro.jpg)
+![image](/docs/cadastro2.jpg)
+
