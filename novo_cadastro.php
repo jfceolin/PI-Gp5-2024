@@ -96,7 +96,7 @@ h2 {
 <h2>Pessoa Física</h2>
 
 <div class="container">
-    <form action="#" method="POST">
+    <form action="cadastro_realizado.php" method="POST">
         <div class="form-group">
         <input type="text" id="nome" name="nome" placeholder="Nome" required>
         </div>
@@ -125,7 +125,7 @@ h2 {
 <h2>Pessoa Jurídica</h2>
 
 <div class="container">
-    <form action="#" method="POST">
+    <form action="cadastro_realizado.php" method="POST">
         <div class="form-group">
         <input type="text" id="nome" name="nome" placeholder="Razão Social" required>
         </div>

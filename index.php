@@ -18,10 +18,12 @@
                 <button type="submit" class="btn-submit">Login</button>
             </form>
         </div>
+        <!--
         <div class="box">
         <a href="novo_cadastro.php" class="esqueci-senha">
             <button type="submit" class="btn-submit">Novo Cadastro</button>
         </a>
         </div>
+        -->
     </body>
 </html>
